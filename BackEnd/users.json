@@ -1,0 +1,22 @@
+{
+  "users": [
+    { "id": 1, "email": "test@gmail.com", "password": "123456" },
+    {
+      "id": 2,
+      "email": "anushashetty257@gmail.com",
+      "password": "Anusha@172",
+      "secret": "1234"
+    },
+    { "id": 3, "email": "abc@yahoo.com", "password": "1234", "secret": "5678" },
+    { "id": 4, "email": "hello@gmail.com", "password": "abcd", "secret": "123" }
+  ],
+  "contacts": [
+    { "id": 1, "email": "anu@gmail.com", "name": "qwerty", "phone": "234789" },
+    {
+      "id": 2,
+      "name": "Anusha",
+      "email": "anushashetty257@gmail.com",
+      "phone": "9876512345"
+    }
+  ]
+}

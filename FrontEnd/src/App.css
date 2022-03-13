@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.hello {
+  background: #aa4b6b;
+  background: -webkit-linear-gradient(to bottom, #9edee7, #6b6b83, #aa4b6b);
+  background: linear-gradient(to bottom, #79c5d1, #6b6b83, #9b4f68);
+}
